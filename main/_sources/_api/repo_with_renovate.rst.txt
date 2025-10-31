@@ -1,0 +1,13 @@
+﻿``repo_with_renovate``
+======================
+
+.. automodule:: repo_with_renovate
+    :members:
+
+    
+    
+    
+
+    
+    
+    
