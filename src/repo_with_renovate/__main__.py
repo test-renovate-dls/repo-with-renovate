@@ -8,6 +8,10 @@ from . import __version__
 __all__ = ["main"]
 
 
+def uncovered():
+    print("Not covered")
+
+
 def main(args: Sequence[str] | None = None) -> None:
     """Argument parser for the CLI."""
     parser = ArgumentParser()
