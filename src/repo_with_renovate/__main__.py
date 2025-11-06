@@ -9,7 +9,7 @@ __all__ = ["main"]
 
 
 def uncovered():
-    print("Not covered")
+    print("Not covered at all")
 
 
 def main(args: Sequence[str] | None = None) -> None:
